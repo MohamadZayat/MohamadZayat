@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**MohamadZayat/MohamadZayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
@@ -10,4 +10,4 @@
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: Email : m7amadz.96.mz@gmail.com
 - ⚡ Fun fact: I love football and motorcycles not a fun fact but a fact:grinning:
--->
+
